@@ -1,4 +1,4 @@
-### image_classification
+### Image_Classification
 ![Sports_Classifier](https://user-images.githubusercontent.com/42798629/209129727-0eeb1d9a-6f59-4192-a408-9abfe20b8376.jpg)
 
 
